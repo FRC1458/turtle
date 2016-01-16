@@ -1,2 +1,2 @@
 # turtle
-Repository for those learnign new stuff
+Repository for those learning new stuff
